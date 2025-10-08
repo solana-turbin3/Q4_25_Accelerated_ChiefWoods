@@ -1,0 +1,3 @@
+[submodule "whitelisted"]
+	path = whitelisted
+	url = https://github.com/ChiefWoods/whitelisted-transfers.git
