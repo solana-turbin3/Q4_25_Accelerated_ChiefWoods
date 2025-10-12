@@ -1,3 +1,6 @@
 [submodule "whitelisted"]
 	path = whitelisted
 	url = https://github.com/ChiefWoods/whitelisted-transfers.git
+[submodule "escrow"]
+	path = escrow
+	url = https://github.com/ChiefWoods/escrow.git
