@@ -4,3 +4,6 @@
 [submodule "escrow"]
 	path = escrow
 	url = https://github.com/ChiefWoods/escrow.git
+[submodule "whitelisted-vault"]
+	path = whitelisted-vault
+	url = https://github.com/ChiefWoods/whitelisted-vault.git
