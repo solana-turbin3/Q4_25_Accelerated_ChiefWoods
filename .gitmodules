@@ -7,3 +7,6 @@
 [submodule "whitelisted-vault"]
 	path = whitelisted-vault
 	url = https://github.com/ChiefWoods/whitelisted-vault.git
+[submodule "magic-user"]
+	path = magic-user
+	url = https://github.com/ChiefWoods/magic-user.git
