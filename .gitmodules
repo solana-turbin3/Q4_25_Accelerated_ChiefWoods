@@ -10,3 +10,6 @@
 [submodule "magic-user"]
 	path = magic-user
 	url = https://github.com/ChiefWoods/magic-user.git
+[submodule "pinocchio-escrow"]
+	path = pinocchio-escrow
+	url = https://github.com/ChiefWoods/pinocchio-escrow
