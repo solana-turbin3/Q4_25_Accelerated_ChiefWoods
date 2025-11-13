@@ -13,3 +13,6 @@
 [submodule "pinocchio-escrow"]
 	path = pinocchio-escrow
 	url = https://github.com/ChiefWoods/pinocchio-escrow
+[submodule "magic-roulette"]
+	path = magic-roulette
+	url = https://github.com/ChiefWoods/magic-roulette.git
