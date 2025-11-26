@@ -16,3 +16,6 @@
 [submodule "magic-roulette"]
 	path = magic-roulette
 	url = https://github.com/ChiefWoods/magic-roulette.git
+[submodule "pinocchio-fundraiser"]
+	path = pinocchio-fundraiser
+	url = https://github.com/ChiefWoods/pinocchio-fundraiser.git
